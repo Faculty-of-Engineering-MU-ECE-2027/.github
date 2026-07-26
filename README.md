@@ -23,10 +23,4 @@ Communication and Electronics Engineering Department is considered to be one of 
 - Internet of Things (IoT)
 
 </details>
-+---------------------------------------------------------+
-|                                                         |
-|          IEEE Mansoura Data Science Committee           |
-|                                                         |
-|        Learn • Build • Share • Open Source             |
-|                                                         |
-+---------------------------------------------------------+
+
