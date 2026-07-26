@@ -13,3 +13,13 @@ Communication and Electronics Engineering Department is considered to be one of 
 - Offering free resources so anyone can start learning without barriers.
 
 </details>
+
+<detalis>
+<summary><strong> These are the tracks that are currently available:</strong></summary>
+- Artificial Intelligence
+- Integrated Circuit Design
+- Analog Design
+- Mobile Communications
+- Internet of Things (IoT)
+
+</details>
