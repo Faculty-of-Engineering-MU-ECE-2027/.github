@@ -15,7 +15,8 @@ Communication and Electronics Engineering Department is considered to be one of 
 </details>
 
 <detalis>
-<summary><strong> These are the tracks that are currently available:</strong></summary>
+<summary><strong>These are the tracks that are currently available:</strong></summary>
+  
 - Artificial Intelligence
 - Integrated Circuit Design
 - Analog Design
