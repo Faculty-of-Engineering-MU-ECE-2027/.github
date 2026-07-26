@@ -4,9 +4,8 @@ Communication and Electronics Engineering Department is considered to be one of 
 
 **ECE** stands for **Electronics and Communications Engineering**. This organization was an idea in the minds of **2027 class** in the department. 
 
-<details>
+<details> <sumary>**Our Targets:**</sumary>
   
-<sumary>**Our Targets:**</sumary>
 - Helping the new students in choosing the best track based on the information and resources that we provided.
 - Providing the most important and latest resources, courses, and topics in each track.
 - Providing Free resources that can you begin in them without any problem.
