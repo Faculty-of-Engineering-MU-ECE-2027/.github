@@ -1,6 +1,6 @@
 # Hey, this is us :wave:
 ## Welcome to Electronics and Communications Enigneering Department
-<<!--![ECE Banner]([images/cover.png](https://github.com/Faculty-of-Engineering-MU-ECE-2027/.github/blob/main/profile/images/conver.png))-->
+<!--![ECE Banner]([images/cover.png](https://github.com/Faculty-of-Engineering-MU-ECE-2027/.github/blob/main/profile/images/conver.png))-->
 <p align="center">
   <img src="images/cover.png" width="100%">
 </p>
