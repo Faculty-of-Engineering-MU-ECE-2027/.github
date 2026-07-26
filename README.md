@@ -3,7 +3,7 @@
 Communication and Electronics Engineering Department is considered to be one of the department in the Faculty of Engineering, Mansoura University in Egypt. This orgnaization is created to provide the roadmap for technical field that is related to the studying in the department. 
 
 **ECE** stands for **Electronics and Communications Engineering**. This organization was an idea in the minds of **2027 class** in the department. 
-<hr size = "5">
+<hr size = "10">
 <details>
 <sumary>**Our Targets:**</sumary>
 - Helping the new students in choosing the best track based on the information and resources that we provided.
