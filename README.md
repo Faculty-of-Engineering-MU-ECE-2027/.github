@@ -1,4 +1,3 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+# Welcome to Electronics and Communications Enigneering Department
+Communication and Electronics Engineering Department is considered to be one of the department in the Faculty of Engineering, Mansoura University in Egypt. This orgnaization is created to provide the roadmap for technical field that is related to the studying in the department. 
+**ECE** stands for **Electronics and Communications Engineering**. This organization was an idea in the minds of 2027 class in the department. 
